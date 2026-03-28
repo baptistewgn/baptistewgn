@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to my personal page dedicated to Economic and Financial Analyses  
 
-This repository serves as a collection of my personal research and analyses in the fields of economics and finance. Here, I delve into complex topics with the aim of enhancing understanding and providing insights into market dynamics, economic trends, and financial risk management.  
+This GitHub serves as a collection of my personal research and analyses in the fields of economics and finance. Here, I delve into complex topics with the aim of enhancing understanding and providing insights into market dynamics, economic trends, and financial risk management.  
 
 The content reflects my ongoing efforts to explore these disciplines rigorously and thoughtfully. While grounded in thorough research, these analyses represent personal interpretations and should be considered as such.  
 
