@@ -23,7 +23,7 @@ This repository gathers my personal work on economics and finance, encompassing 
 
 ## Latest Topics Covered  
 
-[**Analyzing the Behavior of French Stocks During Crises: A Comparative Study of Return Distributions from 2007 to 2022 Using the Tail Index**](https://github.com/baptistewgn/CAC40-Behavior-During-Crisis)  
+[**Introduction to Conditional Variance Forecasting and Volatility-Scalded Portfolio**](https://github.com/baptistewgn/daily-volatility-forecasting-intro)  
 
 ## /!\ Disclaimer  
 
